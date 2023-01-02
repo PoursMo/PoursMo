@@ -6,8 +6,8 @@ I started using Unity in November 2020, working on small projects to learn by my
 
 Outside of work, my hobbies and interests include: cooking, traveling, music production, and board/video gaming.
 
-[Linkedin](https://www.linkedin.com/in/amaury-loubry-962533249/) 
-[Portfolio](https://poursmo.github.io/)
+* [Linkedin](https://www.linkedin.com/in/amaury-loubry-962533249/)
+* [Portfolio](https://poursmo.github.io/)
 
 <!--
 **PoursMo/PoursMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
