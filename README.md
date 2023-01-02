@@ -6,8 +6,7 @@ I started using Unity in November 2020, working on small projects to learn by my
 
 Outside of work, my hobbies and interests include: cooking, traveling, music production, and board/video gaming.
 
-[Linkedin](https://www.linkedin.com/in/amaury-loubry-962533249/)
-
+[Linkedin](https://www.linkedin.com/in/amaury-loubry-962533249/) 
 [Portfolio](https://poursmo.github.io/)
 
 <!--
