@@ -4,7 +4,6 @@ Unity Certified Associate: Programmer ✅
 
 Outside of work, my hobbies and interests include: cooking, traveling, music production, and board/video gaming.
 
-* [Linkedin](https://www.linkedin.com/in/amaury-loubry-962533249/)
 * [Portfolio](https://poursmo.github.io/)
 
 How to reach me: loubry.amaury@gmail.com
