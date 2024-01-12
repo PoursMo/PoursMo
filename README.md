@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Amaury Loubry
 
-Certified Unity Programmer in C#.
+Unity Certified Associate: Programmer ✅
 
 Outside of work, my hobbies and interests include: cooking, traveling, music production, and board/video gaming.
 
