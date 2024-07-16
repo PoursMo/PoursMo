@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Amaury Loubry
 
-Unity Certified Associate: Programmer ✅
-
-Outside of work, my hobbies and interests include: cooking, traveling, music production, and board/video gaming.
+My hobbies and interests include: cooking, traveling, music production, and board/video gaming.
 
 * [Portfolio](https://poursmo.github.io/)
 
