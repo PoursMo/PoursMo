@@ -2,7 +2,7 @@
 
 My hobbies and interests include: cooking, traveling, music production, and board/video gaming.
 
-* [Portfolio](https://poursmo.github.io/)
+* [(old) Portfolio](https://poursmo.github.io/)
 
 How to reach me: loubry.amaury@gmail.com
 <!--
