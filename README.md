@@ -1,8 +1,4 @@
-### Hi there 👋 I'm Amaury Loubry
-
-My hobbies and interests include: cooking, traveling, music production, and board/video gaming.
-
-* [(old) Portfolio](https://poursmo.github.io/)
+### Hi, I'm Amaury Loubry
 
 How to reach me: loubry.amaury@gmail.com
 <!--
